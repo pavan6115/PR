@@ -8,14 +8,14 @@
 - [ ] 🧪 Testing
 - [ ] 🔥 Performance Improvements
 
-#
+
 
 ## Did you test it out?
 - [ ] ✅ Yes
 - [ ] ❌ No
 - [ ] 🙅🏻 Not needed
 
-#
+
 
 ## Description
 > What I did 
@@ -24,13 +24,13 @@
 
 > Impacted Areas
 
-#
+
 
 ## Any addition of Seed Data? 
 - [ ] ✅ Yes
 - [ ] ❌ No
 - [ ] 🙅🏻 Not Required
 
-#
+
 
 ## Add a gif that best describes this PR
