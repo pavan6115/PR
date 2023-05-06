@@ -1,2 +1,2 @@
 # PR
-Trying out new PR methods
+- Trying out Pull Request Template
